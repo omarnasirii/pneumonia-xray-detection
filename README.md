@@ -4,9 +4,13 @@ A computer vision project using TensorFlow and CNNs to classify chest X-ray imag
 
 ## 🚀 Features
 - Built in **Python** using **TensorFlow/Keras**
+
 - Trains a Convolutional Neural Network (CNN) on labeled X-ray images
+  
 - Achieves binary classification: `PNEUMONIA` vs `NORMAL`
+  
 - Predicts on individual images or full test datasets
+  
 - Outputs per-image prediction confidence scores
 
 
