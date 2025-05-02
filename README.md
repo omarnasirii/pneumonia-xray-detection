@@ -7,7 +7,7 @@ This project uses a Convolutional Neural Network (CNN) to classify chest X-ray i
 Use the [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset from Kaggle.
 Place it inside a `data/` folder like so:
 
-#### Pneumonia Detection from Chest X-rays using Deep Learning
+#### pneumonia-xray-detection
 #### │
 #### ├── data/                  (not uploaded to GitHub)
 #### │   ├── train/
