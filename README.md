@@ -29,11 +29,11 @@ Place it inside a `data/` folder like so:
 #### ├────────NORMAL/
 #### └────────PNEUMONIA/
 #### │
-#### ├── pneumonia_detection.py     (model training + saving)
-#### ├── predict_all.py             (predict on all test images)
-#### ├── requirements.txt           (dependencies)
-#### ├── .gitignore                 (ignore model and dataset)
-#### └── README.md                  (project documentation)
+#### pneumonia_detection.py     (model training + saving)
+#### predict_all.py             (predict on all test images)
+#### requirements.txt           (dependencies)
+#### .gitignore                 (ignore model and dataset)
+#### README.md                  (project documentation)
 
 
 ## How to Run
