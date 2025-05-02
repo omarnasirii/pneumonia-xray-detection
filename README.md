@@ -12,11 +12,11 @@ This project uses a Convolutional Neural Network (CNN) to classify chest X-ray i
 
 pip install -r requirements.txt
 
-2. Train the model
+### 2. Train the model
 
 python pneumonia_detection.py
 
-3. Run predictions on all test images
+### 3. Run predictions on all test images
 
 python predict_all.py
 
