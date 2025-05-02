@@ -8,15 +8,15 @@ This project uses a Convolutional Neural Network (CNN) to classify chest X-ray i
 
 ### pneumonia-xray-detection/
 ### │
-### ├── data/                  # Placeholder (not uploaded to GitHub)
+### ├── data/                  (not uploaded to GitHub)
 ### │   ├── train/
 ### │   └── test/
 ### │
-### ├── pneumonia_detection.py     # Model training + saving
-### ├── predict_all.py             # Predict on all test images
-### ├── requirements.txt           # Dependencies
-### ├── .gitignore                 # Ignore model and dataset
-### └── README.md                  # Project documentation
+### ├── pneumonia_detection.py     (model training + saving)
+### ├── predict_all.py             (predict on all test images)
+### ├── requirements.txt           (dependencies)
+### ├── .gitignore                 (ignore model and dataset)
+### └── README.md                  (project documentation)
 
 ## 🚀 How to Run
 
