@@ -50,11 +50,11 @@ python predict_all.py
 The model is a CNN with three convolutional layers and dropout, trained on resized 150x150 X-ray images.
 
 ## 🧬 Model Architecture
-Input: 150x150 grayscale image
-Conv2D(32) → ReLU → MaxPool
-Conv2D(64) → ReLU → MaxPool
-Conv2D(128) → ReLU → MaxPool
-Flatten → Dense(128) → Dropout → Dense(1, sigmoid)
+#### Input: 150x150 grayscale image
+#### Conv2D(32) → ReLU → MaxPool
+#### Conv2D(64) → ReLU → MaxPool
+#### Conv2D(128) → ReLU → MaxPool
+#### Flatten → Dense(128) → Dropout → Dense(1, sigmoid)
 
 
 ## 📦 Output
