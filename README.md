@@ -20,23 +20,17 @@ Use the [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymoone
 Place it inside a `data/` folder like so:
 
 #### Pneumonia Detection from Chest X-rays using Deep Learning/
-#### │
+#### pneumonia_detection.py     (model training + saving)
+#### predict_all.py             (predict on all test images)
+#### requirements.txt           (dependencies)
 #### data/
-#### ├── train/
+#### │── train/
 #### │────── NORMAL/
 #### │────── PNEUMONIA/
 #### └── test/
 #### ├────────NORMAL/
 #### └────────PNEUMONIA/
-#### │
-#### pneumonia_detection.py     (model training + saving)
-#### │
-#### predict_all.py             (predict on all test images)
-#### │
-#### requirements.txt           (dependencies)
-#### │
 #### .gitignore                 (ignore model and dataset)
-#### │
 #### README.md                  (project documentation)
 
 
