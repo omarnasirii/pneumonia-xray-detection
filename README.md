@@ -21,9 +21,13 @@ Place it inside a `data/` folder like so:
 
 #### pneumonia-xray-detection
 #### │
-#### ├── data/                  (not uploaded to GitHub)
-#### ├────── train/
-#### │────── test/
+#### data/
+#### ├── train/
+#### │────── NORMAL/
+#### │────── PNEUMONIA/
+#### └── test/
+#### ├────────NORMAL/
+#### └────────PNEUMONIA/
 #### │
 #### ├── pneumonia_detection.py     (model training + saving)
 #### ├── predict_all.py             (predict on all test images)
