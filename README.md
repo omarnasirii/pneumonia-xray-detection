@@ -30,9 +30,13 @@ Place it inside a `data/` folder like so:
 #### └────────PNEUMONIA/
 #### │
 #### pneumonia_detection.py     (model training + saving)
+#### │
 #### predict_all.py             (predict on all test images)
+#### │
 #### requirements.txt           (dependencies)
+#### │
 #### .gitignore                 (ignore model and dataset)
+#### │
 #### README.md                  (project documentation)
 
 
