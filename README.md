@@ -19,7 +19,7 @@ A computer vision project using TensorFlow and CNNs to classify chest X-ray imag
 Use the [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset from Kaggle.
 Place it inside a `data/` folder like so:
 
-#### pneumonia-xray-detection
+#### Pneumonia Detection from Chest X-rays using Deep Learning/
 #### │
 #### data/
 #### ├── train/
