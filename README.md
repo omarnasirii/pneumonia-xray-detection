@@ -60,10 +60,10 @@ The model is a CNN with three convolutional layers and dropout, trained on resiz
 ## 📦 Output
 Predictions are printed with confidence scores for each test image.
 
-Example Output:
+#### Example Output:
 
-IM-0001.jpeg (NORMAL) ➜ Predicted: Normal (Confidence: 0.12)
-person1_bacteria_1.jpeg (PNEUMONIA) ➜ Predicted: Pneumonia (Confidence: 0.91)
+#### IM-0001.jpeg (NORMAL) ➜ Predicted: Normal (Confidence: 0.12)
+#### person1_bacteria_1.jpeg (PNEUMONIA) ➜ Predicted: Pneumonia (Confidence: 0.91)
 
 
 ## 📘 What I Learned
