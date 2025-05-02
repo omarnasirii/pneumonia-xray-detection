@@ -10,8 +10,8 @@ Place it inside a `data/` folder like so:
 #### pneumonia-xray-detection
 #### │
 #### ├── data/                  (not uploaded to GitHub)
-#### │   ├── train/
-#### │   └── test/
+#### ├────── train/
+#### │────── test/
 #### │
 #### ├── pneumonia_detection.py     (model training + saving)
 #### ├── predict_all.py             (predict on all test images)
