@@ -6,17 +6,17 @@ This project uses a Convolutional Neural Network (CNN) to classify chest X-ray i
 
 [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset from Kaggle.
 
-### Pneumonia Detection from Chest X-rays using Deep Learning
-### │
-### ├── data/                  (not uploaded to GitHub)
-### │   ├── train/
-### │   └── test/
-### │
-### ├── pneumonia_detection.py     (model training + saving)
-### ├── predict_all.py             (predict on all test images)
-### ├── requirements.txt           (dependencies)
-### ├── .gitignore                 (ignore model and dataset)
-### └── README.md                  (project documentation)
+#### Pneumonia Detection from Chest X-rays using Deep Learning
+#### │
+#### ├── data/                  (not uploaded to GitHub)
+#### │   ├── train/
+#### │   └── test/
+#### │
+#### ├── pneumonia_detection.py     (model training + saving)
+#### ├── predict_all.py             (predict on all test images)
+#### ├── requirements.txt           (dependencies)
+#### ├── .gitignore                 (ignore model and dataset)
+#### └── README.md                  (project documentation)
 
 ## 🚀 How to Run
 
